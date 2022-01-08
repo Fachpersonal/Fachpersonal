@@ -19,7 +19,7 @@ Hi, i'm falscherIdiot, 18 y.o and a passionate self-taught. My passion for softw
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/falscherIdiot/falscherIdiot/cat-computer.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/falscherIdiot/falscherIdiot/main/cat-computer.gif" width="500" height="320" />
   
 - 💬 ask me about anything, I am happy to help;
 
