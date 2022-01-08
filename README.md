@@ -43,17 +43,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>
 
 
-📊 **this week i spent my time on:**
+## 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
 <!--
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/falscherIdiot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 -->
 
-📈 my github stats
+## 📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=falscherIdiot&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
