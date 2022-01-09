@@ -1,20 +1,14 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="falscherIdiot's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/falscherIdiot">
-  <img align="left" alt="falscherIdiot | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://open.spotify.com/user/v5cea1arqxkb5mkpgp0638e50?si=484e31e3c6014ba3">
-  <img align="left" alt="falscherIdiot's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+<a href="https://discord.gg/XTW52Kt"><img align="left" alt="falscherIdiot's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+<a href="https://twitter.com/falscherIdiot"><img align="left" alt="falscherIdiot | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+<a href="https://open.spotify.com/user/v5cea1arqxkb5mkpgp0638e50?si=484e31e3c6014ba3"><img align="left" alt="falscherIdiot's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=falscherIdiot)
 
 <br />
 
-Hi, i'm falscherIdiot, 18 y.o and a passionate self-taught. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Marcel (aka. falscherIdiot), I'm from Germany. Also I'm 18 y.o and a passionate self-taught. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -42,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>
 
-
+<br />
 ## 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
@@ -55,8 +49,8 @@ YAML    7 mins          ███▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-<a href="https://www.buymeacoffee.com/falscherIdiot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+If ya like what I do, maybe consider buying me a tea (not a big fan of coffe ^^) 🥺👉👈
+<a href="https://www.buymeacoffee.com/falscherIdiot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Tea" width="150" ></a>
 -->
 
 ## 📈 My github stats
