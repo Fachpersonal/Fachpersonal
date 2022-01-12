@@ -41,7 +41,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2022 - 10 January, 2022
+Week: 05 January, 2022 - 11 January, 2022
 
 Java         3 hrs 35 mins   █████████████████████▓░░░   87.22 % 
 Other        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
