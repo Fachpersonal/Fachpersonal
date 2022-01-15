@@ -50,9 +50,6 @@ If ya like what I do, maybe consider buying me a tea (not a big fan of coffe ^^)
 ## 📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=falscherIdiot&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
-
-## My Activity this week
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=falscherIdiot&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
     
 ## Currently working on
     
