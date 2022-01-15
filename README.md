@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>
 <br />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falscherIdiot&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falscherIdiot&count_private=true&show_icons=true&theme=material-palenight&hide=html" alt="falscherIdiot" />
 <br />
 
 ## 📊 **This week i spent my time on:**
@@ -53,3 +53,11 @@ If ya like what I do, maybe consider buying me a tea (not a big fan of coffe ^^)
 
 ## My Activity this week
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=falscherIdiot&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
+    
+## Currently working on
+    
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=falscherIdiot&repo=MMORPG&show_owner=true&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
+      
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=falscherIdiot&repo=LUNA&show_owner=true&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
+      
+
