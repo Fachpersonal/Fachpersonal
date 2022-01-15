@@ -35,21 +35,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://github.com/github/explore/blob/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/archlinux/archlinux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>
-
+<br />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falscherIdiot&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
 <br />
 
 ## 📊 **This week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-Week: 08 January, 2022 - 14 January, 2022
-
-Java         13 hrs 21 mins  ███████████████████████▓░   94.63 % 
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-```
-<!--END_SECTION:waka-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=falscherIdiot&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
 
 <!--
 If ya like what I do, maybe consider buying me a tea (not a big fan of coffe ^^) 🥺👉👈
@@ -59,3 +50,6 @@ If ya like what I do, maybe consider buying me a tea (not a big fan of coffe ^^)
 ## 📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=falscherIdiot&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
+
+## My Activity this week
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=falscherIdiot&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
