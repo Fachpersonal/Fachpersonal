@@ -43,11 +43,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ```text
 Week: 08 January, 2022 - 14 January, 2022
 
-Java         11 hrs 26 mins  ███████████████████████▓░   94.59 % 
-Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Java         13 hrs 21 mins  ███████████████████████▓░   94.63 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
 
