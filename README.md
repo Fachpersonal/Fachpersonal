@@ -2,7 +2,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt"><img align="left" alt="falscherIdiot's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 <a href="https://twitter.com/falscherIdiot"><img align="left" alt="falscherIdiot | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-<a href="https://open.spotify.com/user/v5cea1arqxkb5mkpgp0638e50?si=484e31e3c6014ba3"><img align="left" alt="falscherIdiot's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /></a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=falscherIdiot)
 
