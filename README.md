@@ -3,19 +3,15 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/XTW52Kt"><img align="left" alt="falscherIdiot's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-
 <a href="https://twitter.com/falscherIdiot"><img align="left" alt="falscherIdiot | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-
-![Visitor-Badge](https://visitor-badge.glitch.me/badge?page_id=falscherIdiot)
 
 <br />
 
-Hi, i'm Marcel (aka. falscherIdiot), I'm from Germany. Also I'm 19 y.o and a passionate self-taught. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Marcel (aka. Fachpersonal), I'm from Germany, I'm 19 y.o and a passionate self-taught. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/falscherIdiot/falscherIdiot/main/cat-computer.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Fachpersonal/Fachpersonal/main/cat-computer.gif" width="500" height="320" />
   
 - 💬 ask me about anything, I am happy to help;
 
