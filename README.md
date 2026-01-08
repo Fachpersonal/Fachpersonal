@@ -7,7 +7,7 @@
 
 <br />
 
-Hi, I'm Marcel (aka. Fachpersonal), I'm from Germany, I'm 19 y.o and a passionate self-taught. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Marcel (aka. Fachpersonal), I'm from Germany, I'm 22 y.o and a passionate self-taught. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
