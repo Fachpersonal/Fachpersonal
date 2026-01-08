@@ -36,24 +36,3 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fachpersonal&count_private=true&show_icons=true&theme=material-palenight" alt="falscherIdiot" />
 <br />
-
-## 📊 **This week i spent my time on:**
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fachpersonal&count_private=true&show_icons=true&theme=material-palenight" alt="Fachpersonal" />
-
-<!--
-If ya like what I do, maybe consider buying me a tea (not a big fan of coffe ^^) 🥺👉👈
-<a href="https://www.buymeacoffee.com/falscherIdiot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Tea" width="150" ></a>
--->
-
-## 📈 My github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fachpersonal&count_private=true&show_icons=true&theme=material-palenight" alt="Fachpersonal" />
-
-## Currently working on
-
-<p align="center"> <a href="https://github.com/Fachpersonal/UNITED"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fachpersonal&repo=UNITED&show_owner=true&count_private=true&show_icons=true&theme=material-palenight" alt="Fachpersonal" /></a>
-
-<!--
-<p align="center"> <a href="https://github.com/Fachpersonal/LUNA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fachpersonal&repo=LUNA&show_owner=true&count_private=true&show_icons=true&theme=material-palenight" alt="Fachpersonal" /></a>
--->
